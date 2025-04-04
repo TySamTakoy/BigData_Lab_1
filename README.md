@@ -3,6 +3,9 @@ MapReduce для набора данных ('onlinefraud.csv')
 
 Url исходного файла: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection?resource=download
 
+![image](https://github.com/user-attachments/assets/78d66d30-12ef-44c1-95d4-621e839da787)
+
+
   ## Задачи:
 1. Сравнение среднего размера мошеннических и обычных транзакций
 2. Распределение мошеннических транзакций по типам операций
